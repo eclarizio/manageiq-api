@@ -1093,6 +1093,7 @@
     :identifier: host
     :options:
     - :collection
+    - :custom_actions
     :verbs: *gp
     :klass: Host
     :subcollections:
